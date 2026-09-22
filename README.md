@@ -1,4 +1,8 @@
 # Restricted Area Intrusion Detection & Alert System
+## Live Demo
+
+[Open Intrusion Detection App](https://restricted-area-intrusion-detection-o7ckh3ndlzuyuqvpdvka7p.streamlit.app/)
+
 
 A Python application that detects people in uploaded images and videos, checks whether they are inside a selected restricted zone, and generates visual and audible alerts.
 
